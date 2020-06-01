@@ -1,13 +1,13 @@
 
-# A Series of morning warmups, GA 2020
+# 💫 A Series of morning warmups, GA 2020
 
 ### Overview
 ---
-Daily morning warmups
+💪 Daily morning exercises
 
-### Key Features
+### 🔑 Key Features
 
-- Mosyly focused on practicing:
- * Javascript
- * Ruby (includinh OOP)
+💻 Mostly focused on practicing:
+ * 🖱Javascript
+ * 🔻 Ruby (including OOP principles)
  
